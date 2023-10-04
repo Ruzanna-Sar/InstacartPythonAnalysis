@@ -1,13 +1,10 @@
 # InstacartPythonAnalysis
-Instacart is a real-world online grocery retailer that functions through a mobile application.
+[Instacart](https://www.instacart.com/) is a real-world online grocery retailer that functions through a mobile application.
 While Instacart has already achieved strong sales, they aim to gain deeper insights into their sales trends. 
 ## Objective
- The primary goal of this research is to examine customer behavior and discover trends to facilitate further growth with the analysis implemented using Python.
+ The primary goal of this project was to examine customer behavior and discover trends to facilitate further growth through improved market segmentation.
 ## Tools
 For this project the following python libraries were used:
 * pandas- for data analysis
 * seaborn, matplotlib - for visualisation
-## Executing the code
-The code is available as jupyter notebooks, available under/scripts/
-To launch the notebook, open terminal and run the command:
-* importing data:jupyter notebook importData.ipynb
+## Data
