@@ -7,5 +7,5 @@ For this project the following python libraries were used:
 * seaborn, matplotlib - for visualisation
 ## Executing the code
 The code is available as jupyter notebooks, available under/scripts/
-To launch the notebook, open terminaland run the command:
+To launch the notebook, open terminal and run the command:
 * importing data:jupyter notebook importData.ipynb
