@@ -5,4 +5,7 @@ Instacart is a real-world online grocery retailer that functions through a mobil
 For this project the following python libraries were used:
 pandas- for data analysis
 seaborn - for visualisation
-
+## Executing the code
+The code is available as jupyter notebooks, available under/scripts/
+To launch the notebook, open terminaland run the command:
+-importing data:jupyter notebook importData.ipynb
