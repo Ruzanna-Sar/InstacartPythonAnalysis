@@ -9,7 +9,7 @@ For this project the following python libraries were used:
 * seaborn, matplotlib - for visualisation
 ## Data
 The following dataset was provided for analysis:
-* the products,
-* the orders,
-* the customers,
-* the department
+* products,
+* orders,
+* customers,
+* departments
